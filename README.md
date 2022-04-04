@@ -1,2 +1,2 @@
 # pancakes
-Use pancake recipes to demonstrate stacked PRs
+This repo uses pancake recipes to demonstrate stacked PRs.
